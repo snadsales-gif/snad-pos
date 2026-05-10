@@ -39,12 +39,11 @@ export default function Page() {
           <div className="buttons">
             <button className="primary">
               ابدأ الآن
-            </button>
-
+</button>
             <button className="secondary">
               استكشف النظام
-            </button>
-          </div>
+</button>          
+</div>
 
         </div>
 
